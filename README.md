@@ -1,4 +1,4 @@
-# Danny-Ma-s-8-Week-SQL-Challenge
+# Danny-Ma-8-Week-SQL-Challenge
 This repository contains the answers for  study 1 in https://8weeksqlchallenge.com/
 
 **Server used:**
