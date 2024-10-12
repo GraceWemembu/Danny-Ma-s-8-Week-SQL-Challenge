@@ -1,6 +1,6 @@
 # Danny-Ma-8-Week-SQL-Challenge
 This repository contains the answers to case study 1 in https://8weeksqlchallenge.com/
-https://8weeksqlchallenge.com/images/case-study-designs/1.png
+
 **Server used:**
 MySQL Workbench
 
