@@ -1,3 +1,4 @@
+![Case study1](https://github.com/user-attachments/assets/e7a1429a-7fd6-4c60-9eeb-5607f29bde02)
 # Danny-Ma-8-Week-SQL-Challenge
 This repository contains the answers to case study 1 in https://8weeksqlchallenge.com/
 
